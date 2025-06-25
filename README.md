@@ -1,2 +1,1 @@
-# Data_Analysis_Project
-
+# *This project is data analysis of the Household electricity.*
